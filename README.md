@@ -11,7 +11,7 @@ See the README file for directions. You'll need python 2.7 and [pip 1.4 or later
 2. Clone this repo with
 
    ```
-   git clone https://github.com/GoogleCloudPlatform/appengine-python-flask-skeleton.git
+   git clone https://github.com/Memsy/Alto.git
    ```
 3. Install dependencies in the project's lib directory.
    Note: App Engine can only import libraries from inside your project directory.
